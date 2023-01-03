@@ -41,7 +41,7 @@ main {
     right: 27%;
     font-size: clamp(8px , 5vw , 25px);
     /*
-clamp(valor minimo, valor que eu gostaria , valor maximo)
+clamp(valor minimo, valor que eu gostaria , valor maximo).
     */
 }
 
